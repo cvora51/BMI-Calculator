@@ -27,7 +27,7 @@ It is a multi screen app with simple-functionality with full-on custom styling.
 
 -> Flutter Routes and Navigators.
 
--> Funcations with parameters passing.
+-> Functions with parameters passing.
 
 -> Dart Enums and Ternary operators.
 
